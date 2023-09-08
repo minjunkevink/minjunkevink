@@ -1,4 +1,4 @@
-<h3 align="center">i know nothing but i want to learn everything!</h3>
+<h3 align="center">built && !bought</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
