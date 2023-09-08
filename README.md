@@ -1,14 +1,25 @@
-### Hello there, I'm Kevin! 👋
-**built && !bought**
+<!-- Tagline and Description -->
+<p align="center">
+  <!-- Typing SVG with custom font -->
+  <a href="https://github.com/minjunkevink">
+    <img src="https://readme-typing-svg.demolab.com/?lines=built%20%26%26%20!bought;breaking%20things%20and%20learning%20things;aspiring%20AI%2FML%20Engineer&font=DejaVu%20Sans%20Mono&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-#### Connect with me:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" title="LinkedIn" />](https://linkedin.com/in/kevinjameskim)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" title="Kaggle" />](https://kaggle.com/critterjam)
-[... other icons ...]
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCmme-FDVCM9MckjXOjEz0PA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/minjunkevinkim/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/AjHp8oo.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/kevinjameskim/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/YfU5uHs.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.kaggle.com/critterjam"><img width="32px" alt="Kaggle" title="Kaggle" src="https://i.imgur.com/XQ9Dy0B.png"/></a>
+</p>
 
-#### Languages and Tools:
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" title="Bash" />
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" title="Blender" />
-[... other icons ...]
+<br/>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=minjunkevink)
+<!-- Commit Streaks - Assuming you have a repository to display your commit streaks -->
+<p align="center">
+  <a href="https://github.com/minjunkevink/commit-streak">
+    <img alt="commit streaks" title="Commit Streaks" src="https://github.com/minjunkevink/commit-streak/blob/main/streak-stats.svg"/></a>
+</p>
