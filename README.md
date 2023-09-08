@@ -2,7 +2,7 @@
 <p align="center">
   <!-- Typing SVG with custom font -->
   <a href="https://github.com/minjunkevink">
-    <img src="https://readme-typing-svg.demolab.com/?lines=built%20%26%26%20!bought;breaking%20things%20and%20learning%20things;aspiring%20AI%2FML%20Engineer&font=DejaVu%20Sans%20Mono&center=true&width=440&height=45&color=%23FFFFFF&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=built%20%26%26%20!bought;aspiring%20AI%2FML%20Engineer&font=DejaVu%20Sans%20Mono&center=true&width=440&height=45&color=%23FFFFFF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
