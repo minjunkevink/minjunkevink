@@ -7,14 +7,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCmme-FDVCM9MckjXOjEz0PA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/channel/UCmme-FDVCM9MckjXOjEz0PA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/minjunkevinkim/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/AjHp8oo.png"/></a>
+  <a href="https://www.instagram.com/minjunkevinkim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/kevinjameskim/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/YfU5uHs.png"></a>
+  <a href="https://www.linkedin.com/in/kevinjameskim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.kaggle.com/critterjam"><img width="32px" alt="Kaggle" title="Kaggle" src="https://i.imgur.com/XQ9Dy0B.png"/></a>
+  <a href="https://www.kaggle.com/critterjam"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
+
 
 <br/>
 
