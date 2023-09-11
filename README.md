@@ -1,3 +1,6 @@
+![CS and CS (ifykyk)](https://github.com/minjunkevink/minjunkevink/blob/main/programmer:progamergif.gif?raw=true)
+
+
 <!-- Desciption -->
 <p align="center">
   <!-- Typing SVG with custom font -->
