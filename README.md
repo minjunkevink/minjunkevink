@@ -1,9 +1,13 @@
-<!-- Intro GIF -->
 <p align="center">
-  <img src="https://github.com/minjunkevink/minjunkevink/blob/main/programmer:progamergif.gif?raw=true" alt="CS and CS (ifykyk)">
+  <!-- GIF -->
+  <img src="https://github.com/minjunkevink/minjunkevink/blob/main/programmer:progamergif.gif?raw=true" alt="CS and CS (ifykyk)" width="45%">
+  
+  <!-- Your image (replace with actual link) -->
+  <img src="URL_OF_YOUR_IMAGE_HERE" alt="Description of your image" width="45%">
 </p>
 
-<!-- Desciption -->
+
+<!-- FPV Drone Pilot -->
 <p align="center">
   <!-- Typing SVG with custom font -->
   <a href="https://github.com/minjunkevink">
