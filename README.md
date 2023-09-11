@@ -1,5 +1,7 @@
-![CS and CS (ifykyk)](https://github.com/minjunkevink/minjunkevink/blob/main/programmer:progamergif.gif?raw=true)
-
+<!-- Intro GIF -->
+<p align="center">
+  <img src="https://github.com/minjunkevink/minjunkevink/blob/main/programmer:progamergif.gif?raw=true" alt="CS and CS (ifykyk)">
+</p>
 
 <!-- Desciption -->
 <p align="center">
