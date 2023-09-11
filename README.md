@@ -1,10 +1,11 @@
 <p align="center">
   <!-- GIF -->
-  <img src="https://github.com/minjunkevink/minjunkevink/blob/main/programmer:progamergif.gif?raw=true" alt="CS and CS (ifykyk)" width="45%">
+  <img src="https://github.com/minjunkevink/minjunkevink/blob/main/programmer:progamergif.gif?raw=true" alt="CS and CS (ifykyk)" height="300px">
   
-  <!-- Your image (replace with actual link) -->
-  <img src="https://github.com/minjunkevink/minjunkevink/blob/main/fpvdrone.png?raw=true" alt="KDRA FPV Drone Pilot" width="45%">
+  <!-- KDRA FPV Drone Pilot -->
+  <img src="https://github.com/minjunkevink/minjunkevink/blob/main/fpvdrone.png?raw=true" alt="KDRA FPV Drone Pilot" height="300px">
 </p>
+
 
 
 <!-- FPV Drone Pilot -->
