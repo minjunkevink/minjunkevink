@@ -27,4 +27,4 @@
   <a href="https://www.kaggle.com/critterjam"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![kevin's stats](https://github-readme-stats.vercel.app/api?minjunkevink=minjunkevink&show_icons=true&theme=radical)
