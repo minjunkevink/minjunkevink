@@ -23,13 +23,9 @@
 </p>
 
 <p align="center">
-  <!-- Total Commits and Language Percentages (for a specific repo as an example) -->
-  <img src="https://img.shields.io/github/commit-activity/m/minjunkevink/burn" alt="Total Commits">
-  <img src="https://img.shields.io/github/languages/top/minjunkevink/webdev_MERN" alt="Top Language Used">
-</p>
-
-<p align="center">
-  <!-- Stats provided by "anuraghazra/github-readme-stats" -->
-  <img src="https://github-readme-stats.vercel.app/api?username=minjunkevink&show_icons=true&theme=radical" alt="Kevin's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkevink&layout=compact&theme=radical" alt="Kevin's Most Used Languages">
+  <!-- GitHub Stats with custom colors -->
+  <img src="https://github-readme-stats.vercel.app/api?username=minjunkevink&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_color=58a6ff" alt="Kevin's GitHub Stats">
+  
+  <!-- Most Used Languages with custom colors -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkevink&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_color=58a6ff" alt="Kevin's Most Used Languages">
 </p>
