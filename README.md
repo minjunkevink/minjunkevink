@@ -24,8 +24,8 @@
 
 <p align="center">
   <!-- Total Commits and Language Percentages (for a specific repo as an example) -->
-  <img src="https://img.shields.io/github/commit-activity/m/minjunkevink/YourRepoName" alt="Total Commits">
-  <img src="https://img.shields.io/github/languages/top/minjunkevink/YourRepoName" alt="Top Language Used">
+  <img src="https://img.shields.io/github/commit-activity/m/minjunkevink/burn" alt="Total Commits">
+  <img src="https://img.shields.io/github/languages/top/minjunkevink/webdev_MERN" alt="Top Language Used">
 </p>
 
 <p align="center">
