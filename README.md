@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Typing SVG with custom font -->
   <a href="https://github.com/minjunkevink">
-    <img src="https://readme-typing-svg.demolab.com/?lines=strive%20for%20understanding;aspiring%20ai%20engineer%2Fresearcher;the%20cult%20of%20done&font=DejaVu%20Sans%20Mono&center=true&width=440&height=45&color=%23FFFFFF&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=strive%20for%20understanding;ai%20safety%20advocate;aspiring%20ai%20engineer%2Fresearcher;the%20cult%20of%20done&font=DejaVu%20Sans%20Mono&center=true&width=440&height=45&color=%23FFFFFF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
