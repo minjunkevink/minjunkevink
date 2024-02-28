@@ -1,7 +1,6 @@
 <p align="center">
   <!-- GIFs and Images -->
   <img src="https://github.com/minjunkevink/minjunkevink/blob/main/programmer:progamergif.gif?raw=true" alt="CS and CS (ifykyk)" height="300px">
-  <img src="https://github.com/minjunkevink/minjunkevink/blob/main/fpvdrone.png?raw=true" alt="KDRA FPV Drone Pilot" height="300px">
 </p>
 
 <p align="center">
