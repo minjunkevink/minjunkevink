@@ -18,9 +18,5 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Stats with custom colors -->
-  <img src="https://github-readme-stats.vercel.app/api?username=minjunkevink&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_color=58a6ff" alt="Kevin's GitHub Stats">
-  
-  <!-- Most Used Languages with custom colors -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkevink&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_color=58a6ff" alt="Kevin's Most Used Languages">
 </p>
