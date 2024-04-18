@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG with custom font -->
   <a href="https://github.com/minjunkevink">
-    <img src="https://readme-typing-svg.demolab.com/?lines=strive%20for%20understanding;ai%20safety%20advocate;aspiring%20ai%20engineer%2Fresearcher;the%20cult%20of%20done&font=DejaVu%20Sans%20Mono&center=true&width=440&height=45&color=%23FFFFFF&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=aspiring%20ai%20engineer%2Fresearcher;the%20cult%20of%20done&font=DejaVu%20Sans%20Mono&center=true&width=440&height=45&color=%23FFFFFF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -20,3 +20,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkevink&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_color=58a6ff" alt="Kevin's Most Used Languages">
 </p>
+
+I give pseudo-conscious dogs cookies every time they sit and scold them every time they bark. 
+Then I got tired of that so I trained one smart pseudo-conscious dog to give other dogs cookies every time they sit and scold them every time they bark but ask me every time it doesn't know what to do.
+I am now what all humans strive to be: lazy.
