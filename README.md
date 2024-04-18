@@ -21,6 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjunkevink&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_color=58a6ff" alt="Kevin's Most Used Languages">
 </p>
 
-I give pseudo-conscious dogs cookies every time they sit and scold them every time they bark. 
+I give pseudo-conscious dogs cookies every time they sit and scold them every time they bark. <br>
 Then I got tired of that so I trained one smart pseudo-conscious dog to give other dogs cookies every time they sit and scold them every time they bark but ask me every time it doesn't know what to do.
 I am now what all humans strive to be: lazy.
