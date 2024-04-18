@@ -22,5 +22,6 @@
 </p>
 
 I give pseudo-conscious dogs cookies every time they sit and scold them every time they bark. <br>
-Then I got tired of that so I trained one smart pseudo-conscious dog to give other dogs cookies every time they sit and scold them every time they bark but ask me every time it doesn't know what to do.
-I am now what all humans strive to be: lazy.
+Then I got tired of that so I trained one smart pseudo-conscious dog to give other dogs cookies every time they sit and scold them every time they bark but ask me every time it doesn't know what to do. <br>
+But I hate it when it asks me, so I told another similarly smart pseudo-conscious dog to tell the other smart pseduo-conscious dog what to through trial and error. <br>
+I am not needed anymore. I am now what all humans strive to be: lazy. 
