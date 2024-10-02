@@ -11,4 +11,4 @@
 
 <a href="https://lab.radicalai.app/#projects">
   <img src="./assests/radical.png" alt="RadicalX" width="20" height="20">
-</a>¡™
+</a>
