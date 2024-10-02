@@ -10,5 +10,5 @@
 </a>
 
 <a href="https://lab.radicalai.app/">
-  <img src="./assests/radcial.png" alt="RadicalX" width="20" height="20">
+  <img src="./assests/radical.png" alt="RadicalX" width="20" height="20">
 </a>¡™
