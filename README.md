@@ -5,4 +5,7 @@
 - 💡 Exploring: 3D Vision, Autonomous Agents, Meta-Learning
 
 #### Worked at:
-[![PingPong Robotics](./roborisen.png)](https://roborisen.com/company/education.php)
+<a href="https://roborisen.com/company/education.php">
+  <img src="./roborisen.png" alt="Pingpong Robotics" width="100" height="100">
+</a>
+
