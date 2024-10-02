@@ -6,6 +6,6 @@
 
 #### Worked at:
 <a href="https://roborisen.com/company/education.php">
-  <img src="./roborisen.png" alt="Pingpong Robotics" width="100" height="100">
+  <img src="./roborisen.png" alt="Pingpong Robotics" width="80" height="20">
 </a>
 
