@@ -2,7 +2,7 @@
 
 - ⚙️ I use daily: `.py`, `.cpp`, `.java`, `.lua`
 - 📝 Learning: `JAX`, `hydra`, `gymnasium`, `mujoco`, and more...
-- 💡 Exploring: 3D Vision, Autonomous Agents, Meta-Learning
+- 💡 Exploring: 3D Vision, System Dynamics, Meta-Learning
 
 #### Worked at:
 <a href="https://roborisen.com/company/education.php">
