@@ -1,8 +1,8 @@
 #### I am a undergraduate student researcher interested in Rep Learning and DeepRL for Robotics 🤖
 
 - ⚙️ I use daily: `.py`, `.cpp`, `.java`, `.lua`
-- 📝 Learning: `JAX`, `hydra`, `gymnasium`, `mujoco`, and more...
-- 💡 Exploring: 3D Vision, System Dynamics, Meta-Learning
+- 📝 Learning: `gymnasium`, `mujoco`, and more...
+- 💡 Exploring: Robot Learning, Perception, HCI
 
 #### Worked at:
 <a href="https://roborisen.com/company/education.php">
